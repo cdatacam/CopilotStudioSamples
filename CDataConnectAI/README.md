@@ -96,11 +96,9 @@ Now you will create the Copilot agent and connect it to CData Connect AI.
 
 5. In the Connect to CData Connect AI window, click **Create** to authenticate your connection CData Connect AI using OAuth authentication.
 
-    ![Authenticating CData Connect AI as a Tool](Images/connect-ai-6.png)
-
 6. Click **Add and configure** to add the CData Connect AI Tool.
 
-    ![Adding CData Connect AI as a Tool](Images/connect-ai-7.png)
+    ![Adding CData Connect AI as a Tool](Images/connect-ai-6.png)
 
 Once added, the agent can dynamically invoke CData Connect AI to retrieve structured data at runtime.
 
