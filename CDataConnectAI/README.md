@@ -1,7 +1,7 @@
 # CData Connect AI 
 
 ## Overview
-This sample demonstrates how to integrate [Microsoft Copilot Studio](https://copilotstudio.microsoft.com/) with [CData Connect AI](https://www.cdata.com/ai/signup/) by configuring Connect AI as a **Tool** for agents built in Copilot Studio. Connect AI brings connectivity, context, and control to Copilot Studio agents, enabling them to securely read, write, and act on real-time data across **350+ enterprise systems** through a single MCP endpoint.
+This sample demonstrates how to integrate [Microsoft Copilot Studio](https://copilotstudio.microsoft.com/) with [CData Connect AI](https://www.cdata.com/ai/signup/) by configuring Connect AI as a **Tool** for agents built in Copilot Studio. Connect AI brings connectivity, context, and control to Copilot Studio agents, enabling them to securely read, write, and act on real-time data across hundreds of enterprise systems through a single MCP endpoint.
 
 In this sample, you will create a Copilot Studio agent that uses CData Connect AI as a Tool to dynamically discover, query, and act on data from connected enterprise systems. The agent can reason over structured data exposed by CData Connect AI without requiring separate connectors for each underlying system.
 
